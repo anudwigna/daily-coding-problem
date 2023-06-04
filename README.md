@@ -5,6 +5,6 @@ In this repository, I will try to solve daily code challenges.
 
 🏅 Bonus: Can you do this in one pass?
 
-🛻 [Soultion Day One]([http://abhinandanaryal.dev](https://github.com/anudwigna/daily-coding-problem/blob/main/day_one.py))
+🛻 [Soultion Day One](https://github.com/anudwigna/daily-coding-problem/blob/main/day_one.py)
 
 <hr>
