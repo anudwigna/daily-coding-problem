@@ -1,2 +1,10 @@
 # daily-coding-problem
-In this repository, I will try to solve daily code challenges
+In this repository, I will try to solve daily code challenges.
+
+### 1️⃣ This problem was recently asked by Google. Given a list of numbers and a number k, return whether any two numbers from the list add up to k. For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
+
+🏅 Bonus: Can you do this in one pass?
+
+🛻 [Soultion Day One](http://abhinandanaryal.dev)
+
+<hr>
